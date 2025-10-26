@@ -39,6 +39,8 @@ Speech-to-text-to-text-to-speech (STT-to-TTS) application. User provides a recor
 
 ![Echo Scribe Screenshot](screenshots/echo-scribe/1.png)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/STT-To-TTS)
+
 ---
 
 ## Playlist Curator
@@ -59,11 +61,11 @@ User describes their desired music collection or mood using natural language, an
 
 User uploads a voice sample or speaks directly into the microphone, and Gemini conducts parametric analysis using its audio processing modality. Analyzes voice characteristics, patterns, and speech attributes.
 
-**Repository:** [danielrosehill/Voice-Analyzer](https://github.com/danielrosehill/Voice-Analyzer)
-
 **Screenshot:**
 
 ![Voice Analyzer AI Screenshot](screenshots/voice-analyzer/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Analyzer)
 
 ---
 
@@ -79,6 +81,8 @@ User provides calendar photos and speech inputs, combining Gemini's vision and a
 **Screenshot:**
 
 ![AI Timesheet Screenshot](screenshots/ai-timesheet/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Timesheet-Creator)
 
 ---
 
@@ -100,11 +104,11 @@ A pseudo-AI text generator or "human to AI" converter - the opposite of a humani
 
 User uploads their resume and Gemini analyzes their background to make intelligent, one-at-a-time suggestions for potential career pivots. Each suggestion is based on the skills and experience demonstrated in their resume, helping users discover new career directions they may not have considered.
 
-**Repository:** [danielrosehill/Career-Pivot-AI](https://github.com/danielrosehill/Career-Pivot-AI)
-
 **Screenshot:**
 
 ![Career Pivot AI Screenshot](screenshots/career-pivot/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Career-Pivot-AI)
 
 ---
 
@@ -131,6 +135,8 @@ A voice recorder, transcriber, and optimizer in one. Records voice input, transc
 
 ![Notepad Screenshot](screenshots/notepad/1.png)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Voice-Notepad)
+
 ---
 
 ## Text to SSML Generator
@@ -139,11 +145,11 @@ A voice recorder, transcriber, and optimizer in one. Records voice input, transc
 
 Takes plain text as input and intelligently infers appropriate Speech Synthesis Markup Language (SSML) tags for enhanced text-to-speech output. Automatically adds prosody, emphasis, pauses, and other speech attributes to improve synthetic voice quality.
 
-**Repository:** [danielrosehill/Text-To-SSML-Generator](https://github.com/danielrosehill/Text-To-SSML-Generator)
-
 **Screenshot:**
 
 ![Text to SSML Generator Screenshot](screenshots/text-to-ssml/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Text-To-SSML-Generator)
 
 ---
 
@@ -157,6 +163,8 @@ User selects an AI modality (vision, audio, text, etc.) and the app randomly gen
 
 ![Use Case Ideator Screenshot](screenshots/use-case-ideator/1.png)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Multimodal-AI-Use-Case-Ideator)
+
 ---
 
 ### Video Applications
@@ -167,11 +175,11 @@ User selects an AI modality (vision, audio, text, etc.) and the app randomly gen
 
 An experimental application testing Gemini's vision processing abilities for analyzing human behavior. User provides an image or video along with context cues, and the app analyzes body language, facial expressions, posture, and non-verbal communication patterns to provide insights into emotional states and interpersonal dynamics.
 
-**Repository:** [danielrosehill/Gemini-Body-Language-Analyst](https://github.com/danielrosehill/Gemini-Body-Language-Analyst)
-
 **Screenshot:**
 
 ![Gemini Body Language Analyst Screenshot](screenshots/body-language-analyst/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Gemini-Body-Language-Analyst)
 
 ---
 
@@ -183,11 +191,11 @@ An experimental application testing Gemini's vision processing abilities for ana
 
 Another vision processing experiment. User uploads an image of a room and the app analyzes the spatial layout to estimate dimensions. The app generates an annotated image output, overlaying measurement estimates and spatial information directly onto the room photo for easy visualization.
 
-**Repository:** [danielrosehill/AI-Room-Dimension-Estimator](https://github.com/danielrosehill/AI-Room-Dimension-Estimator)
-
 **Screenshot:**
 
 ![AI Room Dimension Estimator Screenshot](screenshots/room-dimensions/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/AI-Room-Dimension-Estimator)
 
 ---
 
@@ -213,6 +221,8 @@ User uploads a product label photo and the app combines data extraction, OCR (op
 **Screenshot:**
 
 ![Home Inventory Screenshot](screenshots/home-inventory/1.png)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/danielrosehill/Home-Inventory-Helper)
 
 ---
 
