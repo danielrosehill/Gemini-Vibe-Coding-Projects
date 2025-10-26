@@ -1,0 +1,224 @@
+{
+  "collection": {
+    "name": "Gemini Vibe Coding Project Index (AI Studio)",
+    "description": "A collection of multimodal AI application prototypes built using Google AI Studio's build functionality. These are experimental 'vibe-coded' starters exploring various AI capabilities including vision, audio, video, and text processing.",
+    "author": {
+      "name": "Daniel Rosehill",
+      "website": "https://danielrosehill.com",
+      "email": "public@danielrosehill.com"
+    },
+    "masterIndex": "https://github.com/danielrosehill/Github-Master-Index"
+  },
+  "projects": [
+    {
+      "id": "audio-speaker-editor",
+      "name": "Audio Speaker Editor",
+      "category": "audio",
+      "modalities": ["audio", "speech-processing"],
+      "description": "User uploads audio and Gemini identifies unique speakers through diarization. The app can selectively remove speakers by transcribing the audio, identifying specific speaker segments, and concatenating only the desired segments to create a cleaned audio output. An ambitious application combining speaker identification, audio segmentation, and intelligent audio editing.",
+      "screenshot": "screenshots/audio-speaker-editor/1.png",
+      "repository": "https://github.com/danielrosehill/Audio-Speaker-Editor",
+      "badges": ["Audio", "Speech Processing"]
+    },
+    {
+      "id": "echo-scribe",
+      "name": "EchoScribe",
+      "category": "audio",
+      "modalities": ["audio", "speech-processing"],
+      "description": "Speech-to-text-to-text-to-speech (STT-to-TTS) application. User provides a recording which gets transcribed, then an intermediate layer powered by Gemini condenses the message into a more concise form, and finally the condensed text gets synthesized back into speech and presented for playback or recording.",
+      "screenshot": "screenshots/echo-scribe/1.png",
+      "repository": "https://github.com/danielrosehill/EchoScribe",
+      "badges": ["Audio", "Speech Processing"]
+    },
+    {
+      "id": "playlist-curator",
+      "name": "Playlist Curator",
+      "category": "audio",
+      "modalities": ["audio", "music"],
+      "description": "User describes their desired music collection or mood using natural language, and the app generates a curated YouTube playlist matching those preferences. Combines natural language understanding with music search and playlist generation.",
+      "screenshot": "screenshots/playlist-cutator/1.png",
+      "repository": "https://github.com/danielrosehill/Playlist-Curator",
+      "badges": ["Audio", "Music"]
+    },
+    {
+      "id": "voice-analyzer",
+      "name": "Voice Analyzer",
+      "category": "audio",
+      "modalities": ["audio", "speech-processing"],
+      "description": "User uploads a voice sample or speaks directly into the microphone, and Gemini conducts parametric analysis using its audio processing modality. Analyzes voice characteristics, patterns, and speech attributes.",
+      "screenshot": "screenshots/voice-analyzer/1.png",
+      "repository": "https://github.com/danielrosehill/Voice-Analyzer",
+      "badges": ["Audio", "Speech Processing"]
+    },
+    {
+      "id": "timesheet-generator",
+      "name": "Timesheet Generator",
+      "category": "text",
+      "modalities": ["text", "vision", "productivity"],
+      "description": "User provides calendar photos and speech inputs, combining Gemini's vision and audio processing capabilities to automatically generate a comprehensive timesheet document. Extracts schedule information from images and combines it with verbal context to create accurate time tracking records.",
+      "screenshot": "screenshots/ai-timesheet/1.png",
+      "repository": "https://github.com/danielrosehill/AI-Timesheet-Generator",
+      "badges": ["Text", "Vision", "Productivity"]
+    },
+    {
+      "id": "botify",
+      "name": "Botify",
+      "category": "text",
+      "modalities": ["text", "chatbot"],
+      "description": "A pseudo-AI text generator or 'human to AI' converter - the opposite of a humanizer. This playful application takes regular human-written text and transforms it to sound more AI-generated. Created just for fun to explore the boundary between human and AI writing styles.",
+      "screenshot": "screenshots/botify/1.png",
+      "repository": "https://github.com/danielrosehill/Botify",
+      "badges": ["Text", "Chatbot"]
+    },
+    {
+      "id": "career-pivot-ai",
+      "name": "CareerPivot AI",
+      "category": "text",
+      "modalities": ["text", "search"],
+      "description": "User uploads their resume and Gemini analyzes their background to make intelligent, one-at-a-time suggestions for potential career pivots. Each suggestion is based on the skills and experience demonstrated in their resume, helping users discover new career directions they may not have considered.",
+      "screenshot": "screenshots/career-pivot/1.png",
+      "repository": "https://github.com/danielrosehill/Career-Pivot-AI",
+      "badges": ["Text", "Search"]
+    },
+    {
+      "id": "movie-recommendation-engine",
+      "name": "Movie Recommendation Engine",
+      "category": "text",
+      "modalities": ["text", "search"],
+      "description": "User describes what they're looking for in entertainment (mood, genre, themes, etc.) and the engine recommends movies and shows matching their preferences. Natural language interface for personalized content discovery.",
+      "screenshot": "screenshots/movie-recs/1.png",
+      "repository": "https://github.com/danielrosehill/Movie-Recommendation-Engine",
+      "badges": ["Text", "Search"]
+    },
+    {
+      "id": "voice-notepad",
+      "name": "Voice Notepad (AudioScribe)",
+      "category": "text",
+      "modalities": ["text", "audio", "productivity"],
+      "description": "A voice recorder, transcriber, and optimizer in one. Records voice input, transcribes it to text, and applies an optimization layer for stylistic or format-based reformatting. Transforms raw voice notes into polished, formatted text documents.",
+      "screenshot": "screenshots/notepad/1.png",
+      "repository": "https://github.com/danielrosehill/Voice-Notepad-AudioScribe",
+      "badges": ["Text", "Audio", "Productivity"]
+    },
+    {
+      "id": "text-to-ssml-generator",
+      "name": "Text to SSML Generator",
+      "category": "text",
+      "modalities": ["text", "format-conversion"],
+      "description": "Takes plain text as input and intelligently infers appropriate Speech Synthesis Markup Language (SSML) tags for enhanced text-to-speech output. Automatically adds prosody, emphasis, pauses, and other speech attributes to improve synthetic voice quality.",
+      "screenshot": "screenshots/text-to-ssml/1.png",
+      "repository": "https://github.com/danielrosehill/Text-To-SSML-Generator",
+      "badges": ["Text", "Format Conversion"]
+    },
+    {
+      "id": "multimodal-ai-use-case-ideator",
+      "name": "Multimodal AI Use Case Ideator",
+      "category": "text",
+      "modalities": ["text", "brainstorming"],
+      "description": "User selects an AI modality (vision, audio, text, etc.) and the app randomly generates creative use case ideas. Helps users think of imaginative new applications for Gemini's multimodal capabilities and sparks innovation for AI application development.",
+      "screenshot": "screenshots/use-case-ideator/1.png",
+      "repository": "https://github.com/danielrosehill/Multimodal-AI-Use-Case-Ideator",
+      "badges": ["Text", "Brainstorming"]
+    },
+    {
+      "id": "body-language-analyst",
+      "name": "Body Language Analyst",
+      "category": "video",
+      "modalities": ["video", "multimodal"],
+      "description": "An experimental application testing Gemini's vision processing abilities for analyzing human behavior. User provides an image or video along with context cues, and the app analyzes body language, facial expressions, posture, and non-verbal communication patterns to provide insights into emotional states and interpersonal dynamics.",
+      "screenshot": "screenshots/body-language-analyst/1.png",
+      "repository": "https://github.com/danielrosehill/Gemini-Body-Language-Analyst",
+      "badges": ["Video", "Multimodal"]
+    },
+    {
+      "id": "room-dimension-estimator",
+      "name": "Room Dimension Estimator",
+      "category": "vision",
+      "modalities": ["vision", "image-processing"],
+      "description": "Another vision processing experiment. User uploads an image of a room and the app analyzes the spatial layout to estimate dimensions. The app generates an annotated image output, overlaying measurement estimates and spatial information directly onto the room photo for easy visualization.",
+      "screenshot": "screenshots/room-dimensions/1.png",
+      "repository": "https://github.com/danielrosehill/AI-Room-Dimension-Estimator",
+      "badges": ["Vision", "Image Processing"]
+    },
+    {
+      "id": "diagram-enhancer",
+      "name": "Diagram Enhancer",
+      "category": "vision",
+      "modalities": ["vision", "image-processing"],
+      "description": "Takes rough sketches and hand-drawn diagrams and improves their clarity and presentation while preserving the original handwriting style. Enhances legibility and visual appeal without losing the authentic character of the hand-drawn elements.",
+      "screenshot": "screenshots/diagram-enhancer/1.png",
+      "repository": "https://github.com/danielrosehill/Diagram-Enhancer",
+      "badges": ["Vision", "Image Processing"]
+    },
+    {
+      "id": "home-inventory-helper",
+      "name": "Home Inventory Helper",
+      "category": "vision",
+      "modalities": ["vision", "image-processing", "search"],
+      "description": "User uploads a product label photo and the app combines data extraction, OCR (optical character recognition), and web search capabilities. First extracts text and product information from the label, then performs a web lookup to gather additional product details, and finally populates comprehensive inventory listings with all relevant information.",
+      "screenshot": "screenshots/home-inventory/1.png",
+      "repository": "https://github.com/danielrosehill/Home-Inventory-Helper",
+      "badges": ["Vision", "Image Processing", "Search"]
+    }
+  ],
+  "categories": {
+    "audio": {
+      "name": "Audio Applications",
+      "description": "Applications focused on audio processing, speech analysis, and sound manipulation"
+    },
+    "text": {
+      "name": "Text Applications",
+      "description": "Applications focused on text processing, generation, and transformation"
+    },
+    "video": {
+      "name": "Video Applications",
+      "description": "Applications focused on video analysis and visual behavior understanding"
+    },
+    "vision": {
+      "name": "Vision Applications",
+      "description": "Applications focused on image analysis, spatial understanding, and visual processing"
+    }
+  },
+  "modalities": {
+    "vision": {
+      "name": "Vision (Image to Text)",
+      "description": "Analyzes images to extract information, measurements, or understanding through computer vision",
+      "useCases": ["Room dimension estimation", "diagram analysis", "object identification", "visual inventory management"]
+    },
+    "audio": {
+      "name": "Audio to Text",
+      "description": "Processes audio inputs to transcribe speech and analyze voice characteristics",
+      "useCases": ["Voice transcription", "speaker identification", "audio editing", "voice pattern analysis"]
+    },
+    "audio-generation": {
+      "name": "Audio Generation",
+      "description": "Creates or curates audio content including music playlists",
+      "useCases": ["Music curation", "playlist generation"]
+    },
+    "video": {
+      "name": "Video (Video to Text)",
+      "description": "Analyzes video content to extract insights about movement, behavior, and visual information",
+      "useCases": ["Body language analysis", "gesture recognition", "video content understanding"]
+    },
+    "text": {
+      "name": "Text to Text",
+      "description": "Processes and generates text for various applications",
+      "useCases": ["Career guidance", "brainstorming", "chatbots", "note-taking", "movie recommendations", "timesheet management"]
+    },
+    "text-to-ssml": {
+      "name": "Text to SSML",
+      "description": "Converts plain text into Speech Synthesis Markup Language for enhanced text-to-speech",
+      "useCases": ["Voice application development", "accessibility features", "podcast production"]
+    },
+    "text-search": {
+      "name": "Text + Search",
+      "description": "Combines text processing with information retrieval capabilities",
+      "useCases": ["Career exploration", "movie discovery", "research assistance"]
+    }
+  },
+  "platform": {
+    "name": "Google AI Studio",
+    "url": "https://ai.google.dev/aistudio",
+    "description": "These projects were built using Google AI Studio, which provides an intuitive interface for rapid prototyping and experimentation with Google's AI models, including Gemini."
+  }
+}

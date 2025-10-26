@@ -1,5 +1,10 @@
 # Gemini Vibe Coding Project Index (AI Studio)
 
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI_Studio-EA4335?style=flat-square&logo=google&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-34A853?style=flat-square)
+![POC](https://img.shields.io/badge/POC-FBBC04?style=flat-square)
+
 [← Back to Master Index](https://github.com/danielrosehill/Github-Master-Index)
 
 A collection of multimodal AI application prototypes built using Google AI Studio's build functionality. These are experimental "vibe-coded" starters exploring various AI capabilities including vision, audio, video, and text processing.
