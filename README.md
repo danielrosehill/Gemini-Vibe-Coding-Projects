@@ -5,7 +5,7 @@
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-34A853?style=flat-square)
 ![POC](https://img.shields.io/badge/POC-FBBC04?style=flat-square)
 
-[← Back to Master Index](https://github.com/danielrosehill/Github-Master-Index)
+[← Back to Master Index](https://github.com/danielrosehill/Start-Here)
 
 A collection of multimodal AI application prototypes built using Google AI Studio's build functionality. These are experimental "vibe-coded" starters exploring various AI capabilities including vision, audio, video, and text processing.
 
